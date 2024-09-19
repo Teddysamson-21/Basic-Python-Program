@@ -1,0 +1,5 @@
+print("Welcome to the world of Engineering")
+name = input("Enter your name: ")
+dept = input("Enter your department: ")
+age =int(input("Enter your age: "))
+print("So You are",name,"who is ",age,"years old","of the department",dept)
